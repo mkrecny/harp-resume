@@ -1,0 +1,61 @@
+body{
+  font-family: "Helvetica";
+}
+
+.header{
+  border-top:20px solid darken(white, 80%);
+  border-bottom:20px solid darken(white, 80%);
+  padding-bottom:20px;
+  padding-top:20px;
+  .top-deets{
+    span{
+      margin-right:10px;
+      font-weight:800;
+      &.r{
+        float:right;
+        margin-right:0px;
+        margin-left:10px;
+      }
+    }
+    margin-bottom:20px;
+  }
+  .photo{
+    img{
+      max-width:100%;
+      -webkit-filter: grayscale(100%); /* Safari 6.0 - 9.0 */
+      filter: grayscale(100%);
+      border-radius:5px;
+    }
+  }
+}
+
+.segment{
+  opacity:0.95;
+  &:hover{
+    opacity:1;
+  }
+}
+
+.words{
+  border-left:1px solid darken(white, 100%);
+}
+
+.data-el{
+  margin-bottom:10px;
+}
+
+.deets{
+  .when{
+    float:right;
+  }
+  .where{
+    font-weight:700;
+  }
+  .what{
+    font-style:italic;
+  }
+}
+
+.footer{
+  border-bottom:30px solid darken(white, 80%);
+}

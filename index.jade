@@ -1,0 +1,23 @@
+.row.header
+	.col.s12.top-deets
+			span Myles Recny
+			span.r.hide-on-small-only mkrecny@gmail.com
+			span
+				a(href="https://twitter.com/recborg") @recborg
+			span.r.hide-on-small-only Hell's Kitchen, NYC
+	.col.m3.photo.hide-on-small-only
+		img(src='/img/myles.jpg')
+	.col.m9.summary!= summary
+for c, i in chapters.reverse()
+	.row.segment
+		.col.m6.s12.deets
+			for d in c.datas
+				div.data-el
+					div
+						span.where= d.where
+						span.when= d.when 
+					div
+						span.what= d.what
+		.col.m6.s12.words!= c.words
+.row.footer
+

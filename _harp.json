@@ -1,0 +1,84 @@
+{
+	"globals":{
+		"summary":"I'm a <b>technical founder</b> who's started two companies, and recently worked at <b>Palantir</b> for four years. My core competencies are vision-setting, strategy, <b>prototyping</b>, business development and <b>hiring</b>. I've worked across <b>consumer</b> and the <b>enterprise</b>, in both the <b>private</b> and <b>public</b> sectors. I live in <b>NYC</b>, hold US & UK passports, and speak English and conversational <b>Mandarin</b>.",
+		"chapters":[
+			{
+				"words":"I was born in the UK, grew up in Australia and attended <b>Duke University</b> in the USA. I studied Philosophy, <b>Computer Science</b>, and Mandarin. During my college summers I lived and worked in Shanghai and am now lucky to speak conversational <b>Mandarin</b>. I launched an <a href='https://www.youtube.com/watch?v=RRgNBlczwDs'>early version of Tinder</a> in college, and wrote a <a href='https://cbss-mzutdykpir.now.sh'</a>thesis about emergent behavior in computational systems.</a>",
+				"datas":[
+					{
+						"where":"Duke University",
+						"when":"2006 - 2010",
+						"what":"Philosophy, Computer Science, Mandarin"
+					}
+				]
+			},{
+				"words":"After graduating I moved to Sacramento to work for an early social-gaming company called Klicknation where I built an RPG called <a href='https://venturebeat.com/2011/12/02/ea-acquires-superhero-city-maker-klicknation-adds-to-bioware-label/'><b>Superhero City.</b></a> This was my first time writing production code in a team setting and Klicknation was later acquired by EA.",
+				"datas":[
+					{
+						"where": "KlickNation",
+						"when": "2010",
+						"what": "Software Engineer"
+					}
+				]
+			},
+			{
+				"words":"I've spent most of my post-college life living in NYC, and that started with <a href='https://www.techstars.com/'><b>TechStars.</b></a> I applied as a solo-founder in late 2010 with <a href='https://vimeo.com/16805175'>an analytics product.</a> I was rejected in the final round, but I was offered a job as an engineer-in-residence, building across teams. I went on to work full-time with one of the TechStars teams, <a href='http://shelby.tv'>Shelby.tv</a> as employee number two.",
+				"datas":[
+					{
+						"where":"TechStars",
+						"when":"2011",
+						"what": "HackStar"
+					},
+					{
+						"where":"ShelbyTV",
+						"when":"2011",
+						"what":"Software Engineer"
+					}
+				]
+			},
+			{
+				"words":"Still ruminating on emergent behavior, I decided to embark on a Masters degree of my own design at <a href='https://gallatin.nyu.edu/'><b>NYU Gallatin</b></a> to explore the question <i>what type of a computational system is the universe?.</i> Within a semester, one of the homework projects led me to create <a href='https://venturebeat.com/2013/04/29/twitter-followgen/'>Followgen</a>, a bootstrapped software company, which completely changed my perspective on work. I dropped out of Gallatin to run this company.",
+				"datas":[
+					{
+						"where":"NYU Gallatin",
+						"when":"2012",
+						"what":"Complex Systems"
+					}
+				]
+			},
+			{
+				"words":"<b>Followgen</b>, a bootstrapped ad-network, enabled me to travel and work remotely for two years. Despite being successful, Followgen ultimately <a href='https://blog.myles.io/thoughts/twitter-shut-me-down'>had to be <b>shut down</b></a>, because of an untenable dependency on the Twitter API. Whilst I was running Followgen, I created <a href='https://blog.myles.io/thoughts/not-having-a-real-job'>a small 'incubator for individuals'</a> called Microhaus, which helped birth two venture backed startups (<a href='https://blockstack.com'>Blockstack</a> and <a href='https://thespoon.tech/josephine-a-sharing-economy-marketplace-for-home-cooking-shuts-down/'>Josephine</a>), and helped some very successful individuals take the next step in their careers.",
+				"datas":[
+					{
+						"where":"Followgen",
+						"what":"Founder/CEO",
+						"when":"2012-2014"
+					},
+					{
+						"where":"Microhaus",
+						"what":"Director",
+						"when":"2013"
+					}
+				]
+			},{
+				"words":"Back in NYC, in 2014, Quinten Farmer and I started a cryptocurrency company <a href='https://twitter.com/patrickc/status/498900226871029760'>(Yett)</a> that pivoted and became <a href='https://even.com'><b>Even.</b></a> Even improves financial well-being for America's underserved workers in the shift economy. Although I left Even early-on due to a personal tragedy, I'm incredibly proud of the mission and team, who, at time of writing just raised a <a href='https://techcrunch.com/2018/07/19/even-raises-40m-to-transform-the-working-class-to-the-savings-class/'><b>Series B.</b></a>",
+				"datas":[
+					{
+						"where":"Even",
+						"what":"CTO, stakeholder",
+						"when":"2014 - present"
+					}
+				]
+			},{
+				"words":"In early 2015 I joined <a href='https://palantir.com'><b>Palantir</b></a>, where I worked for the next <b>four years</b>. I led deployments in Energy and Aerospace, ran hiring for the 'Deployment Strategist' role, built products, and worked in pre-sales for the Fortune 500, and big US government contracts.",
+				"datas":[
+					{
+						"where":"Palantir",
+						"what":"Product, Strategy and Hiring",
+						"when":"2015 - 2019"
+					}
+				]
+			}
+		]
+	}
+}
